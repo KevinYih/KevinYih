@@ -27,9 +27,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
 ## 📊 Submission Records
 | Platform | Submissions |
 |----------|------------|
-| **GitHub Contributions** | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark) |
-| **LeetCode Challenges** | ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma) |
-| **CodeWars Rank** | ![CodeWars Badge](https://www.codewars.com/users/your-codewars-username/badges/small) |
+| **GitHub Contributions** | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinyih&theme=dark) |
 
 ---
 
@@ -46,11 +44,11 @@ A cool open-source contribution or a personal project that showcases your skills
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinyih&show_icons=true&theme=dark)
 
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-username)
-- 📧 Email: your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-kun-yi/)
+- 🐦 [Twitter](https://twitter.com/)
+- 📧 Email: kevinyih@gmail.com
