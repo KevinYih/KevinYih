@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?kevinyih&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kevinyih&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinyih&layout=compact&langs_count=6&theme=radical" alt="Most Used Languages" />
