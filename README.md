@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there! 👋 I'm a Full-Stack Developer
 
-<!--
-**KevinYih/KevinYih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer** with expertise in building scalable and efficient applications. I specialize in modern web technologies and cloud solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I work on both frontend and backend development.
+- 🌱 Constantly learning and improving my skills in **React, Next.js, Java, Spring Boot, MySQL, AWS**, and more.
+- 💡 Passionate about designing scalable and high-performance software solutions.
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+### Frontend
+- **React.js**, **Next.js**, **JavaScript (ES6+)**, **TypeScript**
+- UI Libraries: **Tailwind CSS**, **Material-UI**, **Styled Components**
+
+### Backend
+- **Java**, **Spring Boot**, **Node.js**, **Express.js**
+- Database: **MySQL**, **PostgreSQL**, **MongoDB**
+- Authentication: **JWT**, **OAuth**
+
+### DevOps & Cloud
+- **AWS (S3, EC2, Lambda, DynamoDB, RDS)**
+- **Docker**, **Kubernetes**, **CI/CD Pipelines**
+
+---
+
+## 📊 Submission Records
+| Platform | Submissions |
+|----------|------------|
+| **GitHub Contributions** | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark) |
+| **LeetCode Challenges** | ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma) |
+| **CodeWars Rank** | ![CodeWars Badge](https://www.codewars.com/users/your-codewars-username/badges/small) |
+
+---
+
+## 🏆 Featured Projects
+### 🔹 [Project Name 1](https://github.com/your-github-username/project1)
+A brief description of this project. Tech stack used: **React, Next.js, Tailwind CSS, Firebase**.
+
+### 🔹 [Project Name 2](https://github.com/your-github-username/project2)
+Another description of a project. Built with **Java, Spring Boot, MySQL, AWS**.
+
+### 🔹 [Project Name 3](https://github.com/your-github-username/project3)
+A cool open-source contribution or a personal project that showcases your skills.
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+
+---
+
+### 📬 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🐦 [Twitter](https://twitter.com/your-username)
+- 📧 Email: your-email@example.com
