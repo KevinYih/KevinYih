@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Full-Stack Developer
+# Hi there! 👋 I'm Kevin Yi
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer** with expertise in building scalable and efficient applications. I specialize in modern web technologies and cloud solutions.
 
@@ -83,8 +83,23 @@ Another description of a project. Built with **Java, Spring Boot, MySQL, AWS**.
 ### 🔹 [Project Name 3](https://github.com/your-github-username/project3)
 A cool open-source contribution or a personal project that showcases your skills.
 
+## 🚀 Featured Projects
+ 👇
+<details>
+  <summary><strong>💙 React Projects</strong></summary>
+  
+  - **[React Portfolio](#)** - A portfolio website built with React and Tailwind CSS.
+  - **[Dashboard App](#)** - An admin dashboard with charts and authentication.
+  - **[E-commerce Store](#)** - A fully functional e-commerce store using React and Redux.
+  
+</details>
 
-### 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-kun-yi/)
-- 🐦 [Twitter](https://twitter.com/)
-- 📧 Email: kevinyih@gmail.com
+<details>
+  <summary><strong>☕ Java Projects</strong></summary>
+  
+  - **[Spring Boot API](#)** - A RESTful API built with Spring Boot and MySQL.
+  - **[Library Management System](#)** - A Java-based system for managing library books.
+  - **[E-commerce Backend](#)** - A backend service for an online store using Spring Boot.
+  
+</details>
+
