@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
 - 🔭 I work on both frontend and backend development.
 - 🌱 Constantly learning and improving my skills in **React, Next.js, Java, Spring Boot, MySQL, AWS**, and more.
 - 💡 Passionate about designing scalable and high-performance software solutions.
-- 📫 Feel free to connect with me on <a href="https://linkedin.com/in/kevin-kun-yi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/profile/k_yi1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+- 📫 Feel free to connect with me. 
 
 ## 🛠️ Tech Stack
 
@@ -44,8 +43,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Pipelines" />
 </p>
----
-
 <!--
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -58,7 +55,76 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="AWS RDS" />
 -->
 
+## 🏆 Featured Projects
+<details>
+  <summary>🌐 Web Development</summary>
 
+  - <details>
+      <summary>📌 React Dashboard</summary>
+      
+      - **Introduction:** A modern React Admin Dashboard，including ...。  
+      - 🎥 **Present:**  
+        ![React Dashboard](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+      - 🔗 **GitHub:** [React Dashboard](https://github.com/yourusername/react-dashboard)  
+    </details>
+
+  - <details>
+      <summary>📌 E-commerce App</summary>
+      
+      - **Introduction:** 一个完整的电子商务平台，支持购物车、支付、用户管理。  
+      - 🎥 **Present:**  
+        ![E-commerce App](https://media.giphy.com/media/l0HU7jj0ivEFyYgTC/giphy.gif)  
+      - 🔗 **GitHub:** [E-commerce App](https://github.com/yourusername/ecommerce-app)  
+    </details>
+
+</details>
+
+<details>
+  <summary>🤖 Machine Learning</summary>
+
+  - <details>
+      <summary>📌 AI Chatbot</summary>
+      
+      - **Introduction:** 一个基于 NLP 的 AI 聊天机器人，可以进行智能对话。  
+      - 🎥 **Present:**  
+        ![AI Chatbot](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif)  
+      - 🔗 **GitHub:** [AI Chatbot](https://github.com/yourusername/ai-chatbot)  
+    </details>
+
+  - <details>
+      <summary>📌 Image Recognition</summary>
+      
+      - **Introduction:** 计算机视觉项目，使用 CNN 进行图像分类。  
+      - 🎥 **Present:**  
+        ![Image Recognition](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
+      - 🔗 **GitHub:** [Image Recognition](https://github.com/yourusername/image-recognition)  
+    </details>
+
+</details>
+
+<details>
+  <summary>📱 Mobile Apps</summary>
+
+  - <details>
+      <summary>📌 Flutter News App</summary>
+      
+      - **Introduction:** 一个 Flutter 开发的新闻应用，支持 API 实时抓取新闻。  
+      - 🎥 **Present:**  
+        ![Flutter News App](https://media.giphy.com/media/5xtDarzE7U8hXXQoBeE/giphy.gif)  
+      - 🔗 **GitHub:** [Flutter News App](https://github.com/yourusername/flutter-news)  
+    </details>
+
+  - <details>
+      <summary>📌 React Native Weather</summary>
+      
+      - **Introduction:** 一个 React Native 天气应用，支持全球天气查询。  
+      - 🎥 **Present:**  
+        ![React Native Weather](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+      - 🔗 **GitHub:** [React Native Weather](https://github.com/yourusername/rn-weather)  
+    </details>
+</details>
+
+## 📊 GitHub Stats
 <div align="center">
   <table>
     <tr>
@@ -71,35 +137,4 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Software Developer**
     </tr>
   </table>
 </div>
----
-
-## 🏆 Featured Projects
-### 🔹 [Project Name 1](https://github.com/your-github-username/project1)
-A brief description of this project. Tech stack used: **React, Next.js, Tailwind CSS, Firebase**.
-
-### 🔹 [Project Name 2](https://github.com/your-github-username/project2)
-Another description of a project. Built with **Java, Spring Boot, MySQL, AWS**.
-
-### 🔹 [Project Name 3](https://github.com/your-github-username/project3)
-A cool open-source contribution or a personal project that showcases your skills.
-
-## 🚀 Featured Projects
- 👇
-<details>
-  <summary><strong>💙 React Projects</strong></summary>
-  
-  - **[React Portfolio](#)** - A portfolio website built with React and Tailwind CSS.
-  - **[Dashboard App](#)** - An admin dashboard with charts and authentication.
-  - **[E-commerce Store](#)** - A fully functional e-commerce store using React and Redux.
-  
-</details>
-
-<details>
-  <summary><strong>☕ Java Projects</strong></summary>
-  
-  - **[Spring Boot API](#)** - A RESTful API built with Spring Boot and MySQL.
-  - **[Library Management System](#)** - A Java-based system for managing library books.
-  - **[E-commerce Backend](#)** - A backend service for an online store using Spring Boot.
-  
-</details>
 
